@@ -48,7 +48,7 @@
 ## Project Interests
 - Mobile Development
 - Scraping and Analysing Data
-- Inituative User Interfaces
+- Intuitive User Interfaces
 - Using AI
     - Suggestion tools
     - Analysing known data to determine if AI can find hidden patterns
